@@ -1,0 +1,4 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+cl : ligne de commande warning D9002: option '/wc4574' inconnue ignorée
+  port.c
+  WIN32.vcxproj -> C:\Users\Lenovo\Documents\iia4\Sem1\Sys temps réel\FreeRTOSv10.0.1\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
